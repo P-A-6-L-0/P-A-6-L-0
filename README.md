@@ -111,3 +111,4 @@ App métier, audit, mentoring, projet chelou — **la marchandise se discute en 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FF2E9A,55:8B5CF6,100:22D3EE&section=footer" width="100%" alt=""/>
 
 </div>
+
