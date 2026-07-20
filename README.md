@@ -71,12 +71,11 @@ const pa6lo = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pablosif&show_icons=true&hide_border=true&bg_color=0A0A14&title_color=FF2E9A&icon_color=22D3EE&text_color=9A93B8&ring_color=8B5CF6&locale=fr" height="165" alt="stats"/>
-<img src="https://streak-stats.demolab.com?user=pablosif&hide_border=true&background=0A0A14&ring=FF2E9A&fire=FFD60A&currStreakLabel=22D3EE&sideLabels=9A93B8&currStreakNum=F2F0FF&sideNums=F2F0FF&dates=9A93B8&locale=fr" height="165" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=pablosif&hide_border=true&background=0A0A14&ring=FF2E9A&fire=FFD60A&currStreakLabel=22D3EE&sideLabels=9A93B8&currStreakNum=F2F0FF&sideNums=F2F0FF&dates=9A93B8&locale=fr" alt="streak de commits"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=pablosif&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophées"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pablosif&bg_color=0A0A14&color=9A93B8&line=FF2E9A&point=22D3EE&area=true&area_color=8B5CF6&hide_border=true&custom_title=Activit%C3%A9%20de%20code%20%E2%80%94%2030%20derniers%20jours" width="100%" alt="activité de code"/>
 
 <br/><br/>
 
