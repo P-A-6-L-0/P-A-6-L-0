@@ -61,8 +61,27 @@ const pa6lo = {
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Claude_Code-multi--agents-8B5CF6?style=flat-square&labelColor=0A0A14&logo=anthropic&logoColor=white" alt="Claude Code"/>
+<img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat-square&labelColor=0A0A14&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-frontend-61DAFB?style=flat-square&labelColor=0A0A14&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-backend-339933?style=flat-square&labelColor=0A0A14&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Python-scripts_%26_IA-3776AB?style=flat-square&labelColor=0A0A14&logo=python&logoColor=white" alt="Python"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/MySQL-BDD-4479A1?style=flat-square&labelColor=0A0A14&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/PostgreSQL-BDD-4169E1?style=flat-square&labelColor=0A0A14&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Supabase-BaaS-3FCF8E?style=flat-square&labelColor=0A0A14&logo=supabase&logoColor=3FCF8E" alt="Supabase"/>
 <img src="https://img.shields.io/badge/Odoo-ERP_m%C3%A9tier-714B67?style=flat-square&labelColor=0A0A14&logo=odoo&logoColor=white" alt="Odoo"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Claude_Code-multi--agents-8B5CF6?style=flat-square&labelColor=0A0A14&logo=anthropic&logoColor=white" alt="Claude Code"/>
+<img src="https://img.shields.io/badge/Git-versioning-F05032?style=flat-square&labelColor=0A0A14&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Autodidacte-100%25-8B5CF6?style=flat-square&labelColor=0A0A14" alt="Autodidacte"/>
+<img src="https://img.shields.io/badge/Toulouse-France-FF2E9A?style=flat-square&labelColor=0A0A14&logo=googlemaps&logoColor=FF2E9A" alt="Toulouse"/>
+
+<br/>
+
 <img src="https://img.shields.io/badge/Métier-Électricité_BT%2FTBT-FFD60A?style=flat-square&labelColor=0A0A14" alt="Élec"/>
 <img src="https://img.shields.io/badge/Terrain-14_ans-22D3EE?style=flat-square&labelColor=0A0A14" alt="Terrain"/>
 
