@@ -57,11 +57,12 @@ const pa6lo = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,git,github,vscode&theme=dark" alt="stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,mysql,postgres,supabase,git,github,vscode&theme=dark&perline=6" alt="stack"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Claude_Code-multi--agents-8B5CF6?style=flat-square&labelColor=0A0A14&logo=anthropic&logoColor=white" alt="Claude Code"/>
+<img src="https://img.shields.io/badge/Odoo-ERP_m%C3%A9tier-714B67?style=flat-square&labelColor=0A0A14&logo=odoo&logoColor=white" alt="Odoo"/>
 <img src="https://img.shields.io/badge/Métier-Électricité_BT%2FTBT-FFD60A?style=flat-square&labelColor=0A0A14" alt="Élec"/>
 <img src="https://img.shields.io/badge/Terrain-14_ans-22D3EE?style=flat-square&labelColor=0A0A14" alt="Terrain"/>
 
@@ -71,7 +72,7 @@ const pa6lo = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=P-A-6-L-0&hide_border=true&background=0A0A14&ring=FF2E9A&fire=FFD60A&currStreakLabel=22D3EE&sideLabels=9A93B8&currStreakNum=F2F0FF&sideNums=F2F0FF&dates=9A93B8&locale=fr" alt="streak de commits"/>
+<img src="https://streak-stats.demolab.com?user=P-A-6-L-0&hide_border=true&background=0A0A14&ring=FF2E9A&fire=FFD60A&currStreakLabel=22D3EE&sideLabels=9A93B8&currStreakNum=F2F0FF&sideNums=F2F0FF&dates=9A93B8&locale=fr&mode=daily" alt="streak de commits"/>
 
 <br/><br/>
 
