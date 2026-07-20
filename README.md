@@ -101,6 +101,9 @@ App métier, audit, mentoring, projet chelou — **la marchandise se discute en 
 <a href="https://github.com/pablosif">
   <img src="https://img.shields.io/badge/GitHub-pablosif-8B5CF6?style=for-the-badge&labelColor=0A0A14&logo=github" alt="GitHub"/>
 </a>
+<a href="mailto:contact@frenchtechia.com">
+  <img src="https://img.shields.io/badge/Email-contact@frenchtechia.com-22D3EE?style=for-the-badge&labelColor=0A0A14&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 <br/><br/>
 
