@@ -61,6 +61,8 @@ const pa6lo = {
 
 <br/><br/>
 
+<img src="https://img.shields.io/badge/HTML5-structure-E34F26?style=flat-square&labelColor=0A0A14&logo=html5&logoColor=E34F26" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS-styles-663399?style=flat-square&labelColor=0A0A14&logo=css&logoColor=white" alt="CSS"/>
 <img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat-square&labelColor=0A0A14&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/React-frontend-61DAFB?style=flat-square&labelColor=0A0A14&logo=react&logoColor=61DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/Node.js-backend-339933?style=flat-square&labelColor=0A0A14&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
