@@ -52,6 +52,10 @@ const pa6lo = {
 | 🧾 **DF Élec** | App de gestion complète pour artisan électricien | `ALL-IN-ONE` |
 | ⭐ **Karma** | Réseau social expérimental façon "Nosedive" (Black Mirror) | `4.9★ / 5` |
 | 🍾 **Bataille et Bouteilles** | Jeu de plateau fait maison adapté en mobile | `PARTY PACK` |
+| 🎓 **Formagestion** | Module Odoo 17 : catalogue, sessions, inscriptions, habilitations élec, tarification | `ODOO 17` |
+| 🗺️ **Forma-cartography** | Cartographie locale d'applications et de leurs liens | `LOCAL ONLY` |
+| 🎛️ **Orchestrateur** | Chef d'orchestre JS pour agents IA : tâches, suivi, tempo | `MAESTRO` |
+| 📈 **IA-crypto** | Labo IA × marchés crypto — analyse et signaux expérimentaux | `DYOR` |
 
 ## 🧪 La stack
 
